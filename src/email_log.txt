@@ -1,0 +1,12 @@
+To: test@example.com
+Subject: Your Verification Code
+Message: <p>Your verification code is: <strong>203919</strong></p>
+
+To: test@example.com
+Subject: Your Verification Code
+Message: <p>Your verification code is: <strong>978518</strong></p>
+
+To: test@example.com
+Subject: Your XKCD Comic
+Message: <h2>XKCD Comic</h2><img src="https://imgs.xkcd.com/comics/dating_pools.png" alt="The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date."><p><a href="#" id="unsubscribe-button">Unsubscribe</a></p>
+
