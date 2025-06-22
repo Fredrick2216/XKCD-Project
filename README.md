@@ -92,16 +92,7 @@ Follow these simple steps to get your XKCD Daily Comic Subscription System up an
     cd C:\Users\Sheeba\OneDrive\Pictures\my-projects\XKCD-Project
     ```
 
-2.  **Set Up Web Server:**
-    If you have Apache or Nginx configured, point your web server's document root to the `src/` directory.
-
-    Alternatively, for quick local testing, you can use PHP's built-in web server:
-    ```bash
-    php -S 0.0.0.0:8000 -t src/
-    ```
-    This will start a server accessible at `http://localhost:8000` (or `http://your_server_ip:8000`).
-
-3.  **Configure CRON Job:**
+2.  **Configure CRON Job:**
     Navigate to the `src/` directory and run the `setup_cron.sh` script. This script will automatically add the CRON job to your system's crontab.
     ```bash
     cd src/
