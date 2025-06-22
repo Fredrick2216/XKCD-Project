@@ -37,8 +37,9 @@ Emails stored in `registered_emails.txt` — easy and lightweight!
 - ⏱️ **CRON** – Automates daily delivery  
 - 🤖 **XKCD API** – Fetches latest/random comic data
 
+
 📁 **Project Structure**
-/
+./
 ├── src/
 │ ├── index.php # Subscription form
 │ ├── unsubscribe.php # Unsubscription handler
